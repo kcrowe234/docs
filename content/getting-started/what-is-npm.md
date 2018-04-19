@@ -44,7 +44,7 @@ Now that you know what npm is, and a bit about how to use it, it's time to get s
 
 ### Your First Package Page
 
-First, you create an npm account, which is explained in the next chapter. You will then have you own page on npmjs.com, which will be http://www.npmjs.com/~*yourusername*. 
+First, you create an npm account, which is explained in the next chapter. You will then have your own page on npmjs.com, which will be http://www.npmjs.com/~*yourusername*. 
 
 <img src="/images/first-package-page.png" style="border: 1px solid gray;">
 
